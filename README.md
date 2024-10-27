@@ -1,27 +1,23 @@
-# Minimal Mistakes remote theme starter
+* 🌟 Help Owen Find His Superhero—A Kidney Donor 🌟
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Meet Owen, our brave little warrior who was born with End Stage Renal Disease. At just 18 months old, he’s already faced incredible challenges and numerous surgeries and treatments. Through it all, Owen has shown remarkable strength and resilience, but now he’s ready for the next step: a life-saving kidney transplant.
 
-Contains basic configuration to get you a site with:
+The only thing missing is his superhero—a donor who can give him the gift of life. We are in a critical moment trying to find a kidney for him and we are asking for your help.
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+** Could you be Owen’s hero?
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+We are urgently searching for a living kidney donor. Potential donors should be healthy individuals between the ages of 21 and 55. If you, or someone you know, would consider this incredible act of generosity, we’d love to hear from you.
 
----
+Here’s how you can make a difference:
 
-## Troubleshooting
+🔹 Learn more about becoming a donor and how you can save Owen’s life.
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+🔹 Share Owen’s story—every share helps spread the word and brings us closer to finding his match.
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+If you're interested in learning more or contacting us, please email us at babyowenneedsakidney@gmail.com.
+
+Together, we can help our little boy find the superhero he desperately needs. Whether through donating, sharing, or simply spreading the word, your support means everything to us.
+
+With love and gratitude,
+
+Kristen and Dallas
