@@ -1,10 +1,8 @@
 ---
 permalink: /
-header:
-  image: /assets/images/BabyOwenNeedsaKidney.PNG
 ---
 
-![Hero](/assets/images/IMG_3750.JPEG)
+![Hero](/assets/images/BabyOwenNeedsaKidney.PNG)
 
 # 🌟 Help Owen Find His Superhero—A Kidney Donor 🌟
 Meet Owen, our brave little warrior who was born with End Stage Renal Disease. At just 18 months old, he’s already faced incredible challenges and multiple surgeries and treatments. Through it all, Owen has shown remarkable strength and resilience, but now he’s ready for the next step: a life-saving kidney transplant.
