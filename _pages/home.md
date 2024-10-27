@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+title: "Home"
 ---
 
 # 🌟 Help Owen Find His Superhero—A Kidney Donor 🌟
