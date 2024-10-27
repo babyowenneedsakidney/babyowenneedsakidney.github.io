@@ -1,6 +1,8 @@
 ---
 permalink: /
-title: "Home"
+header:
+  image: /assets/images/IMG_0170.png
+
 ---
 
 # 🌟 Help Owen Find His Superhero—A Kidney Donor 🌟
