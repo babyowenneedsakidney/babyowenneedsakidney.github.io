@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Baby Owen Needs A Kidney
 email: BabyOwenNeedsAKidney@gmail.com
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "mint"
 search: true
 
 # Build settings
