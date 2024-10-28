@@ -1,5 +1,6 @@
 ---
 permalink: /
+classes: wide
 header:
   image: /assets/images/BabyOwenNeedsaKidney_Banner_Skinny.PNG
 ---
