@@ -1,7 +1,7 @@
 ---
 permalink: /
 header:
-  image: /assets/images/BabyOwenNeedsaKidney_Banner.PNG
+  image: /assets/images/BabyOwenNeedsaKidney_Banner_Skinny.PNG
 ---
 
 ![Hero](/assets/images/IMG_3750.JPEG)
