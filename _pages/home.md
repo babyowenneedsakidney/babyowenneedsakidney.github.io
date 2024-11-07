@@ -34,5 +34,5 @@ ___
 
 ## Owen's Stay In The NICU
 
-![NICU](/assets/images/FullSizeRender_resize.jpg)
+![NICU](/assets/images/FullSizeRender.png)
 At 32 weeks pregnant, an ultrasound revealed that both of Owen's kidneys were very small and underdeveloped. Just a few weeks later, Owen was born critically ill with kidney failure and spent several weeks in the NICU. At just 1 week old he had surgery to have a peritoneal catheter placed in his abdomen and at 3 weeks he began dialysis. During his stay in the NICU he required around the clock monitoring, daily blood draws, and a feeding tube to help him eat. 
