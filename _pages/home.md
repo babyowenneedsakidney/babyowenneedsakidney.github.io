@@ -40,7 +40,7 @@ At 32 weeks pregnant, an ultrasound revealed that both of Owen's kidneys were ve
 
 ## Dialysis
 
-<img src="../assets/images/IMG_0681.png" height=150px> <img src="../assets/images/IMG_6988.png" height=150px>
+<img src="../assets/images/IMG_0681.png" width="40%"> <img src="../assets/images/IMG_6988.png" width="54.67%">
 
 This was Owen’s peritoneal dialysis machine - a machine he needed to be on for 10+ hours a day to treat his kidney failure. In order to remove waste from his blood, cleansing fluid would cycle in and out of his belly through an abdominal catheter. This catheter, which was surgically placed when he was just 1 week old, was a very serious infection risk and the site had to be cleaned and changed everyday. 
 
