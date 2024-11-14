@@ -46,7 +46,7 @@ This was Owen’s peritoneal dialysis machine - a machine he needed to be on for
 
 While Owen was on dialysis, he had complications that led to additional surgeries and needed to stop dialysis. During that time we discovered that he had gained just enough kidney function to remain off dialysis. As he waits for a transplant, Owen’s kidney function is decreasing and he may have to go back on dialysis soon, which would mean yet another surgery. To avoid this, Owen needs to find a kidney donor as soon as possible. 
 
-## "Owen" means Warrior
+## "Owen" Means Young Warrior
 
 <img src="../assets/images/IMG_4023.jpg" width="48%"> <img src="../assets/images/IMG_3789.jpg" width="48%">
 
@@ -54,3 +54,12 @@ While Owen was on dialysis, he had complications that led to additional surgerie
 
 Please share Owen’s story and if you are interested in learning more about being a donor for Owen, please email
 BabyOwenNeedsAKidney@gmail.com
+
+
+## Kidney Function: DID YOU KNOW??? 
+
+<img src="../assets/images/IMG_0365.jpg" width="46.6%"> <img src="../assets/images/IMG_1860.jpg" width="48%">
+
+Kidneys are responsible for more than just filtering blood. They also help to regulate blood pressure, maintain fluid balance, produce red blood cells, produce vitamin D to keep bones healthy, and control pH. 
+
+Kidney disease can impact these functions from being performed properly. For Owen, this means needing a daily injection of growth hormone to help him grow and a weekly injection of medicine to help against anemia. A kidney transplant will allow him to no longer require these treatments. 
